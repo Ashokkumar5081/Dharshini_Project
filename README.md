@@ -1,2 +1,2 @@
-# Dharshini_Project
+# Sample_Project
 Stone Paper Scissors
